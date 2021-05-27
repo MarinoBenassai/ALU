@@ -193,7 +193,7 @@ BEGIN
 		QB => BR_QB
 	);
 	  
-	ALU: ALU PORT MAP (
+	UAL: ALU PORT MAP (
 		A => ALU_A,
 		B => ALU_B,
 		Ctrl_Alu => ALU_Ctrl_Alu,
